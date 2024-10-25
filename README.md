@@ -6,7 +6,7 @@ This repository serves as a comprehensive resource for members, researchers, and
 [**Git 101 - Understanding Git Workflow:**](Guides/Git%20101%20-%20Understanding%20Git%20Workflow.pdf) This paper serves as a beginner-friendly guide to understanding the basic concepts and operations of Git, a widely used DVCS (Distributed Version Control System) that intelligently tracks changes in files. This tool is especially valuable when multiple team members are simultaneously making changes to the same project, and understanding the basic commands of this instrument is essential for the optimal organization of a project.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e261914b-fd40-445d-9cec-c768e0c69004">
+  <img src="https://github.com/user-attachments/assets/e261914b-fd40-445d-9cec-c768e0c69004"  width = "400px">
 </p>
 
 ---
